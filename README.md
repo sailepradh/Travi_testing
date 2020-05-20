@@ -1,6 +1,6 @@
 # Travi_testing
 
-Testing thre followinf function using Travis CI
+Testing the following function using Travis CI
 
 ```
 def add(a, b):
