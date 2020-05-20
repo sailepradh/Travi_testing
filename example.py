@@ -8,7 +8,7 @@ def test_add():
 
 
 def subtract(a, b):
-    return a + b  # <--- fix this in step 8
+    return a - b  # I only had to fix this issue. What a lonely life. 
 	
 
 #uncomment the following test in step 5
